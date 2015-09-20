@@ -1,0 +1,10 @@
+---
+title: "Assessment1"
+author: "Rodrigo Ruben Santiago Nieves"
+date: "September 19, 2015"
+output: html_document
+---
+
+```{r readingData}
+data = read.csv("activity.csv")
+```
